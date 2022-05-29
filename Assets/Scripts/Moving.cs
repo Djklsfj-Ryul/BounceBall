@@ -6,10 +6,6 @@ public class Moving : MonoBehaviour
 {
     Rigidbody2D rigid;
     int Player = 3;
-    void Start()
-    {
-
-    }
 
     void Update()
     {
